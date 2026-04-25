@@ -1,0 +1,16 @@
+pandas
+
+numpy
+
+scikit-learn
+
+joblib
+
+fastapi
+
+uvicorn
+
+streamlit
+
+requests
+
